@@ -47,6 +47,7 @@ Create visualizations to illustrate key findings:
 - Average Monetary value by segment.
 - Monthly revenue trend.
 - Top 10 products by sales.
+- 10 Worst product by sales.
 
 ## Key Insights
 
